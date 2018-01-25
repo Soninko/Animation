@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Supermercado+One');
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('https://hdwallsource.com/img/2014/7/white-wallpaper-16868-17421-hd-wallpapers.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family:  'Supermercado One', cursive;
+    font-size:2rem;
+}
+
+.carte{
+    border:2px solid black;
+    margin:auto;
+    width:50%;
+    height:auto;
+    padding: 34px;
+}
+
+ul li {
+    list-style-type: none;
+    margin-top: 10px;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+.first{
+    display: none;
+}
+
+.second{
+  display: none;
+}
+
+.three{
+display: none;
+}
+
+.four{
+  display: none;
+}
+
+.five{
+  display: none;
+}
+
+.six{
+  display: none;
+}
+
+.seven{
+  display: none;
+}
+p{
+text-align: center;
+}
+
+.btn-custom{
+   padding: 10px;
+   border:2px solid black;
+   width: 124px;
+   margin-left:45%;
+   margin-bottom: 23px;
+   margin-top: 10px;
+   padding: 25px;
+   background-color: transparent;
+}
+
+#song{
+  display: none;
+}
